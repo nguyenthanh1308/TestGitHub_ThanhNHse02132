@@ -1,9 +1,5 @@
-df s
-d 
-sd 
-a fsd f
-sd 
-sd 
+
+Ghi file, edit file nay lan thu 2 thoi, chang co j dau
 
 
 Thu file lan 2 thoi, ko co j dau
